@@ -97,8 +97,8 @@ export default function freelance() {
         </div>
 
         <div className="relative z-10 flex flex-col sm:flex-row gap-4 w-full md:w-auto">
-           <a
-            href="mailto:contact@gauravpandey.com"
+          <a
+            href="mailto:padeyg92@gmail.com"
             className="group relative overflow-hidden rounded-xl bg-white/5 px-8 py-4 text-sm uppercase tracking-widest text-[#00ffff] border border-[#00ffff]/30 hover:border-[#00ffff] transition-all flex items-center justify-center gap-3 backdrop-blur-md"
           >
             <span className="absolute inset-0 w-full h-full bg-gradient-to-r from-transparent via-[#00ffff]/20 to-transparent -translate-x-full group-hover:animate-[shimmer_1.5s_infinite]" />
@@ -108,7 +108,7 @@ export default function freelance() {
           </a>
           
           <button
-            onClick={() => navigator.clipboard.writeText('contact@gauravpandey.com')}
+            onClick={() => navigator.clipboard.writeText('padeyg92@gmail.com')}
             className="group relative overflow-hidden rounded-xl bg-white/5 px-8 py-4 text-sm uppercase tracking-widest text-[#a855f7] border border-[#a855f7]/30 hover:border-[#a855f7] transition-all flex items-center justify-center gap-3 backdrop-blur-md"
           >
             <span className="absolute inset-0 w-full h-full bg-gradient-to-r from-transparent via-[#a855f7]/20 to-transparent -translate-x-full group-hover:animate-[shimmer_1.5s_infinite]" />
